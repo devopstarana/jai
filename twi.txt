@@ -2,10 +2,13 @@ Hi
 i am dev2
 i am working on this repository as dev 2
 
-<<<<<<< HEAD
+
+Hi iam dev1 addeiting this file for testing
+=======
+
 
 Hi iam dev2 adding new line for testing 
 on timing 2105
 =======
 Hi iam dev1 addeiting this file for testing
->>>>>>> 663460e (new code)
+
